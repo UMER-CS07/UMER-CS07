@@ -40,14 +40,10 @@ and gets taken through to a working, demo-able system.
 
 | | project | stack | description |
 |---|---|---|---|
-| `drwxr-xr-x` | [`11thMan`](https://github.com/UMER-CS07/11thMan) | React Native, Supabase | Cricket player & team matchmaking app with live over-by-over scoring |
-| `drwxr-xr-x` | [`TT`](https://github.com/UMER-CS07/TT) | Ruby on Rails | Multi-org marketplace - brands create products and generate/share QR & barcodes |
-| `drwxr-xr-x` | [`ecommerce-rails-react`](https://github.com/UMER-CS07/ecommerce-rails-react) | Rails, React | Full e-commerce platform - storefront and admin dashboard |
-| `drwxr-xr-x` | [`splitwise-clone`](https://github.com/UMER-CS07/splitwise-clone) | Python, HTML/CSS/JS | Expense-splitting app modeled on Splitwise |
-| `drwxr-xr-x` | [`cricket-ball-tracking`](https://github.com/UMER-CS07/cricket-ball-tracking) | Python, OpenCV, Deep Learning | Ball detection and trajectory tracking from match footage |
-| `drwxr-xr-x` | [`SilentSense`](https://github.com/UMER-CS07/SilentSense) | Python, WiFi CSI | FYP - indoor presence & activity sensing without cameras |
-
-*(repo names above are best guesses from what you described - swap in the exact slugs from your GitHub if any differ)*
+| `drwxr-xr-x` | [`11th-man`](https://github.com/UMER-CS07/11th-man) | React Native, Supabase | Cricket player & team matchmaking app with live over-by-over scoring |
+| `drwxr-xr-x` | [`ecommerce-fullstack-design`](https://github.com/UMER-CS07/ecommerce-fullstack-design) | Rails, React | Full e-commerce platform - storefront and admin dashboard |
+| `drwxr-xr-x` | [`splitwise-pro`](https://github.com/UMER-CS07/splitwise-pro) | Python, HTML/CSS/JS | Expense-splitting app modeled on Splitwise |
+| `drwxr-xr-x` | [`cpu-scheduling-simulator`](https://github.com/UMER-CS07/cpu-scheduling-simulator) | Python | Simulates and compares CPU scheduling algorithms side by side |
 
 ### `$ ./stats.sh --verbose`
 
